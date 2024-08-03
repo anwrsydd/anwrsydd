@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I'm currently learning about web development
-
+- 🛌 Malas ngoding mending turu
 <!--
 **anwrsydd/anwrsydd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
